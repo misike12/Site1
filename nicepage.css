@@ -42487,6 +42487,11 @@ a.u-link.u-text-hover-grey-90:hover {
         
         
         
+        
+        
+        
+        
+        
         }
 
         /** common-rules **/
@@ -42619,6 +42624,14 @@ a.u-link.u-text-hover-grey-90:hover {
         margin-top: 20px;
         margin-bottom: 20px;
         line-height: 1.6;
+        }
+        .u-body
+        {
+        background-image: url("/images/default-image.jpg");
+        background-size: contain;
+        background-position: 50% 50%;
+        background-repeat: no-repeat;
+        background-attachment: scroll;
         }
         .u-input
         {
@@ -43006,7 +43019,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 
  .u-footer {
-  background-image: linear-gradient(black, #72683f);
+  background-image: linear-gradient(black, #1a1a1a);
 }
 
 .u-footer .u-sheet-1 {

@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("/images/133837538_49d0fbcd-b7de-448c-bb6f-cfb2d358e886.jpg");
+  background-image: url("/images/133837538_49d0fbcd-b7de-448c-bb6f-cfb2d358e886.jpg?rand=51bf");
   background-position: 50% 50%;
 }
 
@@ -248,7 +248,7 @@
 .u-container-layout.hover .u-block-c516-24:not([data-block-selected]):not([data-cell-selected]) {
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
 } .u-section-2 {
-  background-image: url("/images/133837538_49d0fbcd-b7de-448c-bb6f-cfb2d358e886.jpg");
+  background-image: url("/images/133837538_49d0fbcd-b7de-448c-bb6f-cfb2d358e886.jpg?rand=02fa");
   background-position: 50% 50%;
 }
 
@@ -257,18 +257,11 @@
 }
 
 .u-section-2 .u-text-1 {
-  width: 395px;
   transition-duration: 0.5s;
   font-family: Poppins;
+  width: 394px;
   font-weight: 700;
-  margin: 0 373px;
-}
-
-.u-section-2 .u-icon-1 {
-  width: 64px;
-  height: 64px;
-  margin: -58px 341px 0 auto;
-  padding: 6px;
+  margin: 3px auto 0;
 }
 
 .u-section-2 .u-video-1 {
@@ -282,7 +275,7 @@
   transition-duration: 0.5s;
   box-shadow: 2px 0 0px 0 rgba(0,0,0,0);
   filter: brightness(0.85);
-  margin: 19px auto -6px;
+  margin: 25px auto -3px;
 }
 
 .u-section-2 .embed-responsive-1 {
@@ -295,13 +288,7 @@
   }
 
   .u-section-2 .u-text-1 {
-    margin-top: 60px;
-    margin-left: 273px;
-    margin-right: 273px;
-  }
-
-  .u-section-2 .u-icon-1 {
-    margin-right: 281px;
+    width: 395px;
   }
 
   .u-section-2 .u-video-1 {
@@ -315,15 +302,6 @@
     min-height: 952px;
   }
 
-  .u-section-2 .u-text-1 {
-    margin-left: 163px;
-    margin-right: 163px;
-  }
-
-  .u-section-2 .u-icon-1 {
-    margin-right: 215px;
-  }
-
   .u-section-2 .u-video-1 {
     width: 720px;
     height: 405px;
@@ -333,15 +311,6 @@
 @media (max-width: 767px) {
   .u-section-2 .u-sheet-1 {
     min-height: 829px;
-  }
-
-  .u-section-2 .u-text-1 {
-    margin-left: 73px;
-    margin-right: 73px;
-  }
-
-  .u-section-2 .u-icon-1 {
-    margin-right: 161px;
   }
 
   .u-section-2 .u-video-1 {
@@ -357,12 +326,6 @@
 
   .u-section-2 .u-text-1 {
     width: 340px;
-    margin-left: 0;
-    margin-right: 0;
-  }
-
-  .u-section-2 .u-icon-1 {
-    margin-right: 101px;
   }
 
   .u-section-2 .u-video-1 {
@@ -448,7 +411,7 @@
 .u-section-2 .u-text-1.u-text-1.u-text-1.hover {
   font-weight: 700 !important;
 } .u-section-3 {
-  background-image: url("/images/133837538_49d0fbcd-b7de-448c-bb6f-cfb2d358e886.jpg");
+  background-image: url("/images/133837538_49d0fbcd-b7de-448c-bb6f-cfb2d358e886.jpg?rand=02fa");
   background-position: 50% 50%;
 }
 
